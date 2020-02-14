@@ -6,6 +6,6 @@
 - COMBES Julien
 - DELEFORGE Martin
 - AGRO Hiba
-- DONFACK Anaelle .
+- DONFACK Anaelle 
 
 
