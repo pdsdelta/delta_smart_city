@@ -1,6 +1,5 @@
 # DELTA_PROJET
 
-# Client
+# Server
 
-# Martin
 
