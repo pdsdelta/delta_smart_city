@@ -1,4 +1,0 @@
-# DELTA_PROJET
-
-# Client
-

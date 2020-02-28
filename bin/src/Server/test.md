@@ -1,5 +1,0 @@
-# DELTA_PROJET
-
-# Server
-
-
